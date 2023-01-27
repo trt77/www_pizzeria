@@ -1,0 +1,173 @@
+#lewaCzesc{
+    padding-left: 70px;
+    width: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 4.688vw;
+    color: black;
+}
+
+#prawaCzesc{
+    width: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: black;
+    font-size: 1vw;
+    line-height: 1.5em;
+    padding-right: 30px;
+}
+
+html { 
+    background: url("1084612.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+#oNas{
+    text-align: center;
+    font-size: 4.167vw;
+}
+
+body{
+    margin: 0px;
+}
+
+.gornyPanel {
+    height: 45px;
+    background-color: 	rgb(241,172,24);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+}
+
+.gornyPanel:hover{
+    background-color: 	rgb(241,172,24,0.6);
+}
+
+#test{
+    font-size: large;
+}
+
+#centralnaCzesc{
+    width: 40%;
+}
+
+#sp1{
+    width: 60px;
+    border-radius: 5px;
+    margin-left: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: 	rgb(121,163,61);
+    cursor: pointer;
+    height: 24px;
+    display: inline-block;
+    vertical-align: text-bottom;
+    padding: 6px;
+    padding-top: 11px;
+}
+
+#sp2{
+    width: 60px;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: 	#e32929;
+    margin-left: 30px;
+    cursor: pointer;
+    height: 24px;
+    display: inline-block;
+    vertical-align: text-bottom;
+    padding: 6px;
+    padding-top: 11px;
+
+}
+
+#sp1:hover{
+    opacity: 0.9;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blanchedalmond;
+}
+
+#sp2:hover{
+    opacity: 0.9;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blanchedalmond;
+}
+
+
+
+#nazwaPizzeriiFooter{
+    font-weight: bold;
+}
+
+.footerLewa{
+    font-family: monospace;
+}
+
+#tloDolnegoPanelu{
+    position: absolute;
+    bottom: 0;
+    height: 69px;
+    width: 100%;
+    background-color: #e32929;
+}
+
+.stopkaLewy{
+    padding-left:20px;
+    color: rgb(255, 232, 223);
+}
+
+#tytulStopka{
+    font-weight: bold;
+    color: rgb(255, 203, 184);
+}
+.stopkaPrawy{
+    padding-right:20px;
+    text-align: right;
+    color:rgb(255, 203, 184);
+    font-weight: bold;
+}
+
+#tab{
+    width: 100%;
+}
+
+button{
+    border:none;
+    background-color: inherit;
+}
+
+#tableMenu{
+    width: 100%;
+}
+
+#menuSrodkowaCzesc{
+    vertical-align: middle;
+    width:28%;
+    background:rgb(253, 239, 226);
+}
+
+#menuTitle{
+    text-align: center;
+    font-size: 25px;
+}
+
+.marginesyTabeli{
+    height: 150px;
+}
+
+li{
+    margin: 5px;
+}
